@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Blow Dry",
+    "price": 40,
+    "duration": 40
+  },
+  {
+    "id": 2,
+    "name": "Blow Dry with curling or flat iron",
+    "price": 45,
+    "duration": 50
+  },
+  {
+    "id": 3,
+    "name": "Hair Cur with Blow Dry",
+    "price": 65,
+    "duration": 75
+  },
+  {
+    "id": 4,
+    "name": "Mens Hair Cut",
+    "price": 40,
+    "duration": 30
+  },
+  {
+    "id": 5,
+    "name": "Formal Hair Design",
+    "price": 75,
+    "duration": 90
+  },
+  {
+    "id": 6,
+    "name": "Organic Color",
+    "price": 85,
+    "duration": 120
+  },
+  {
+    "id": 7,
+    "name": "Full Highlights",
+    "price": 100,
+    "duration": 110
+  },
+  {
+    "id": 8,
+    "name": "Conditioning Treatment",
+    "price": 20,
+    "duration": 15
+  }
+]

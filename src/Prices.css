@@ -1,0 +1,12 @@
+thead button {
+    border: 0;
+    font-weight: 700;
+    font-size: inherit;
+    padding: 0.5em;
+    margin-bottom: 1px;
+    width: 100%;
+    background-color: #495057;
+    color: whitesmoke;
+    cursor: pointer;
+    font-family: "DejaVu Serif";
+}
